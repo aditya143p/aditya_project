@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aditya143p/aditya_project.git/static/css/main.15345fb4.css",
+    "main.js": "/aditya143p/aditya_project.git/static/js/main.41ac28f1.js",
+    "index.html": "/aditya143p/aditya_project.git/index.html",
+    "main.15345fb4.css.map": "/aditya143p/aditya_project.git/static/css/main.15345fb4.css.map",
+    "main.41ac28f1.js.map": "/aditya143p/aditya_project.git/static/js/main.41ac28f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15345fb4.css",
+    "static/js/main.41ac28f1.js"
+  ]
+}
